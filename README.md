@@ -1,8 +1,4 @@
-Galaxian
-========
-
-A game in C
-
+Galaxian - A game in C
 ========
 ## About the Game ##
 
